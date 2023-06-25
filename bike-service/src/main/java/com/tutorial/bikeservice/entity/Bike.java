@@ -22,6 +22,4 @@ public class Bike {
     private String brand;
     private String model;
     private int userId;
-    private String prueba;
-
 }
