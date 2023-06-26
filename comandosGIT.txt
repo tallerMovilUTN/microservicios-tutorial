@@ -1,0 +1,11 @@
+- git status: te devuelve la rama actual
+
+- git branch eureka (cream una rama con el nombre eureka)
+
+- git checkout eureka (se posiciona en la rama eureka)
+
+
+
+
+
+
