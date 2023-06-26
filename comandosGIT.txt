@@ -4,6 +4,9 @@
 
 - git checkout eureka (se posiciona en la rama eureka)
 
+- git add .(sube todos los archivos nuevos a la rama actual)
+
+- git commit -m "comentario"
 
 
 
